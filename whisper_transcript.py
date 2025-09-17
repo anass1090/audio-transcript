@@ -26,10 +26,6 @@ result = whisperx.align(result["segments"], model_a, metadata, audio, device, re
 
 print(result["segments"]) # after alignment
 
-# delete model if low on GPU resources
-# import gc; import torch; gc.collect(); torch.cuda.empty_cache(); del model_a
-
-# 3. Assign speaker labels
 diarize_model = whisperx.diarize.DiarizationPipeline(use_auth_token=YOUR_HF_TOKEN, device=device)
 
 # add min/max number of speakers if known
