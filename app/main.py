@@ -1,17 +1,8 @@
-from fastapi import FastAPI, UploadFile, File
-from app.Transcription.pipeline import transcribe_audio
-from app.API.routes import router as api_router
+from fastapi import FastAPI
+from app.api.routes import router
+from app.config import setup_cors
 
-app = FastAPI(title="Voice Diary Transcription API")
-app.include_router(api_router)
+app = FastAPI()
 
-@app.post("/transcribe")
-async def transcribe(file: UploadFile = File(...)):
-
-    audio_path = f"audios/{file.filename}"
-    with open(audio_path, "wb") as f:
-        f.write(await file.read())
-
-    result = transcribe_audio(audio_path)
-
-    return result
+setup_cors(app)
+app.include_router(router, prefix="/api")

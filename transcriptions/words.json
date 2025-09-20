@@ -1,0 +1,656 @@
+{
+  "segments": [
+    {
+      "start": 1.263,
+      "end": 3.568,
+      "text": " The stale smell of old beer lingers.",
+      "words": [
+        {
+          "word": "The",
+          "start": 1.263,
+          "end": 1.504,
+          "score": 0.819,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "stale",
+          "start": 1.584,
+          "end": 1.924,
+          "score": 0.849,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "smell",
+          "start": 2.005,
+          "end": 2.325,
+          "score": 0.865,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "of",
+          "start": 2.386,
+          "end": 2.426,
+          "score": 1.0,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "old",
+          "start": 2.446,
+          "end": 2.786,
+          "score": 0.588,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "beer",
+          "start": 2.847,
+          "end": 3.087,
+          "score": 0.798,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "lingers.",
+          "start": 3.147,
+          "end": 3.568,
+          "score": 0.831,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4.49,
+      "end": 6.274,
+      "text": "It takes heat to bring out the odor.",
+      "words": [
+        {
+          "word": "It",
+          "start": 4.49,
+          "end": 4.55,
+          "score": 0.738,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "takes",
+          "start": 4.61,
+          "end": 4.891,
+          "score": 0.791,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "heat",
+          "start": 4.971,
+          "end": 5.212,
+          "score": 0.852,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "to",
+          "start": 5.292,
+          "end": 5.372,
+          "score": 0.998,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bring",
+          "start": 5.412,
+          "end": 5.613,
+          "score": 0.793,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "out",
+          "start": 5.693,
+          "end": 5.793,
+          "score": 0.971,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 5.853,
+          "end": 5.953,
+          "score": 0.962,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "odor.",
+          "start": 6.054,
+          "end": 6.274,
+          "score": 0.864,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7.116,
+      "end": 10.063,
+      "text": "A cold dip restores health and zest.",
+      "words": [
+        {
+          "word": "A",
+          "start": 7.116,
+          "end": 7.156,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cold",
+          "start": 7.256,
+          "end": 7.517,
+          "score": 0.888,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "dip",
+          "start": 7.617,
+          "end": 7.858,
+          "score": 0.856,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "restores",
+          "start": 8.098,
+          "end": 8.499,
+          "score": 0.694,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "health",
+          "start": 8.559,
+          "end": 8.82,
+          "score": 0.754,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "and",
+          "start": 8.92,
+          "end": 9.0,
+          "score": 0.965,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "zest.",
+          "start": 9.06,
+          "end": 10.063,
+          "score": 0.925,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10.083,
+      "end": 12.087,
+      "text": "A salt pickle tastes fine with ham.",
+      "words": [
+        {
+          "word": "A",
+          "start": 10.083,
+          "end": 10.143,
+          "score": 0.989,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "salt",
+          "start": 10.263,
+          "end": 10.524,
+          "score": 0.769,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pickle",
+          "start": 10.644,
+          "end": 10.965,
+          "score": 0.898,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "tastes",
+          "start": 11.085,
+          "end": 11.346,
+          "score": 0.799,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "fine",
+          "start": 11.406,
+          "end": 11.626,
+          "score": 0.988,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "with",
+          "start": 11.666,
+          "end": 11.787,
+          "score": 0.747,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "ham.",
+          "start": 11.827,
+          "end": 12.087,
+          "score": 0.99,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12.709,
+      "end": 14.513,
+      "text": "Tacos al pastor are my favorite.",
+      "words": [
+        {
+          "word": "Tacos",
+          "start": 12.709,
+          "end": 13.089,
+          "score": 0.795,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "al",
+          "start": 13.11,
+          "end": 13.21,
+          "score": 0.846,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "pastor",
+          "start": 13.25,
+          "end": 13.711,
+          "score": 0.847,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "are",
+          "start": 13.771,
+          "end": 13.871,
+          "score": 0.734,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "my",
+          "start": 13.911,
+          "end": 14.012,
+          "score": 0.999,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "favorite.",
+          "start": 14.072,
+          "end": 14.513,
+          "score": 0.814,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15.234,
+      "end": 17.82,
+      "text": "A zestful food is the hot cross bun.",
+      "words": [
+        {
+          "word": "A",
+          "start": 15.234,
+          "end": 15.274,
+          "score": 0.996,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "zestful",
+          "start": 15.355,
+          "end": 15.775,
+          "score": 0.927,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "food",
+          "start": 15.836,
+          "end": 16.116,
+          "score": 0.838,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "is",
+          "start": 16.377,
+          "end": 16.457,
+          "score": 0.954,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "the",
+          "start": 16.517,
+          "end": 16.597,
+          "score": 0.936,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "hot",
+          "start": 16.657,
+          "end": 16.838,
+          "score": 0.937,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "cross",
+          "start": 16.958,
+          "end": 17.259,
+          "score": 0.914,
+          "speaker": "SPEAKER_00"
+        },
+        {
+          "word": "bun.",
+          "start": 17.339,
+          "end": 17.82,
+          "score": 0.892,
+          "speaker": "SPEAKER_00"
+        }
+      ],
+      "speaker": "SPEAKER_00"
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "The",
+      "start": 1.263,
+      "end": 1.504,
+      "score": 0.819,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "stale",
+      "start": 1.584,
+      "end": 1.924,
+      "score": 0.849,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "smell",
+      "start": 2.005,
+      "end": 2.325,
+      "score": 0.865,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "of",
+      "start": 2.386,
+      "end": 2.426,
+      "score": 1.0,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "old",
+      "start": 2.446,
+      "end": 2.786,
+      "score": 0.588,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "beer",
+      "start": 2.847,
+      "end": 3.087,
+      "score": 0.798,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "lingers.",
+      "start": 3.147,
+      "end": 3.568,
+      "score": 0.831,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "It",
+      "start": 4.49,
+      "end": 4.55,
+      "score": 0.738,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "takes",
+      "start": 4.61,
+      "end": 4.891,
+      "score": 0.791,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "heat",
+      "start": 4.971,
+      "end": 5.212,
+      "score": 0.852,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "to",
+      "start": 5.292,
+      "end": 5.372,
+      "score": 0.998,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bring",
+      "start": 5.412,
+      "end": 5.613,
+      "score": 0.793,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "out",
+      "start": 5.693,
+      "end": 5.793,
+      "score": 0.971,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 5.853,
+      "end": 5.953,
+      "score": 0.962,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "odor.",
+      "start": 6.054,
+      "end": 6.274,
+      "score": 0.864,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "A",
+      "start": 7.116,
+      "end": 7.156,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cold",
+      "start": 7.256,
+      "end": 7.517,
+      "score": 0.888,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "dip",
+      "start": 7.617,
+      "end": 7.858,
+      "score": 0.856,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "restores",
+      "start": 8.098,
+      "end": 8.499,
+      "score": 0.694,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "health",
+      "start": 8.559,
+      "end": 8.82,
+      "score": 0.754,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "and",
+      "start": 8.92,
+      "end": 9.0,
+      "score": 0.965,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "zest.",
+      "start": 9.06,
+      "end": 10.063,
+      "score": 0.925,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "A",
+      "start": 10.083,
+      "end": 10.143,
+      "score": 0.989,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "salt",
+      "start": 10.263,
+      "end": 10.524,
+      "score": 0.769,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pickle",
+      "start": 10.644,
+      "end": 10.965,
+      "score": 0.898,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "tastes",
+      "start": 11.085,
+      "end": 11.346,
+      "score": 0.799,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "fine",
+      "start": 11.406,
+      "end": 11.626,
+      "score": 0.988,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "with",
+      "start": 11.666,
+      "end": 11.787,
+      "score": 0.747,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "ham.",
+      "start": 11.827,
+      "end": 12.087,
+      "score": 0.99,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "Tacos",
+      "start": 12.709,
+      "end": 13.089,
+      "score": 0.795,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "al",
+      "start": 13.11,
+      "end": 13.21,
+      "score": 0.846,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "pastor",
+      "start": 13.25,
+      "end": 13.711,
+      "score": 0.847,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "are",
+      "start": 13.771,
+      "end": 13.871,
+      "score": 0.734,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "my",
+      "start": 13.911,
+      "end": 14.012,
+      "score": 0.999,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "favorite.",
+      "start": 14.072,
+      "end": 14.513,
+      "score": 0.814,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "A",
+      "start": 15.234,
+      "end": 15.274,
+      "score": 0.996,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "zestful",
+      "start": 15.355,
+      "end": 15.775,
+      "score": 0.927,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "food",
+      "start": 15.836,
+      "end": 16.116,
+      "score": 0.838,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "is",
+      "start": 16.377,
+      "end": 16.457,
+      "score": 0.954,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "the",
+      "start": 16.517,
+      "end": 16.597,
+      "score": 0.936,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "hot",
+      "start": 16.657,
+      "end": 16.838,
+      "score": 0.937,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "cross",
+      "start": 16.958,
+      "end": 17.259,
+      "score": 0.914,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "word": "bun.",
+      "start": 17.339,
+      "end": 17.82,
+      "score": 0.892,
+      "speaker": "SPEAKER_00"
+    }
+  ]
+}

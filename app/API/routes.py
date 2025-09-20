@@ -1,28 +1,20 @@
 from fastapi import APIRouter, UploadFile, File
-from app.Transcription.pipeline import transcribe_audio
-import os
+import tempfile, os, shutil
+from app.transcription.pipeline import load_models, transcribe_audio
 
 router = APIRouter()
 
-@router.get("/health")
-async def health_check():
-    """Simple health check endpoint."""
-    return {"status": "ok"}
+asr_model, alignment_model, align_metadata = load_models()
 
 @router.post("/transcribe")
 async def transcribe(file: UploadFile = File(...)):
-    """Upload audio and return transcript JSON."""
-    # Ensure temp dir exists
-    os.makedirs("temp", exist_ok=True)
+    with tempfile.NamedTemporaryFile(delete=False, suffix=os.path.splitext(file.filename)[1]) as tmp:
+        shutil.copyfileobj(file.file, tmp)
+        audio_path = tmp.name
 
-    audio_path = f"temp/{file.filename}"
-    with open(audio_path, "wb") as f:
-        f.write(await file.read())
-
-    # Run transcription pipeline
-    result = transcribe_audio(audio_path)
-
-    # (Optional) cleanup temp file
-    os.remove(audio_path)
+    try:
+        result = transcribe_audio(audio_path, asr_model, alignment_model, align_metadata)
+    finally:
+        os.remove(audio_path)
 
     return result
