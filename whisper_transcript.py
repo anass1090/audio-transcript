@@ -39,5 +39,5 @@ for word in result_aligned["word_segments"]:
 transcript_text = " ".join([w['word'].strip() for w in result_aligned["word_segments"]])
 transcript_text = " ".join(transcript_text.split())
 
-print("\n--- Transcription ---")
+print("\n--- transcription ---")
 print(transcript_text)
