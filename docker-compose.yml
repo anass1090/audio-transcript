@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: .
+    container_name: transcription_module
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONDONTWRITEBYTECODE=1
+
+  frontend:
+    build: ../frontend
+    container_name: react-frontend
+    ports:
+      - "3000:80"
